@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Welcome to Learn With Cookies
 subtitle: lorem-ipsum
 date: '2020-12-28'
 thumb_image_alt: lorem-ipsum
