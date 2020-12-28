@@ -6,7 +6,7 @@ params:
     title: Libris
     logo_img: images/logo.svg
     logo_img_alt: Libris logo
-    has_nav: true
+    has_nav: false
     nav_links:
       - label: Home
         url: /
