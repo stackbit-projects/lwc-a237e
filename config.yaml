@@ -65,7 +65,7 @@ params:
         new_window: true
       - label: IG
         url: lorem-ipsum
-        style: primary
+        style: icon
         icon_class: instagram
         new_window: false
         no_follow: false
